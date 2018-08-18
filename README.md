@@ -13,4 +13,4 @@ python3 decryptor.py 3405686976.20480.0000
 # Output example
 
 [+] Decrypting cookie: BIG-IP-cookie=3405686976.20480.0000 <br/>
-[*] Decoded cookie: 192.168.254.202:80
+[*] Decrypted cookie: 192.168.254.202:80
